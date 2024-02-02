@@ -19,3 +19,11 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+# Example Task List
+
+- [ ] Have friends
+- [ ] Good Health
+
+
+
+
